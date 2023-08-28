@@ -1,4 +1,4 @@
-![Header]([./your-header-image-name.png](https://github.com/iliyanh/SoftUni/blob/main/vsc/github-header-image%20(5).png))
+![Header](https://github.com/iliyanh/SoftUni/blob/main/vsc/github-header-image%20(5).png)
 <h1 align="center">Hi 👋, I'm Iliyan Hadzhiev</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iliyanh&label=Profile%20views&color=0e75b6&style=flat" alt="iliyanh" /> </p>
 
